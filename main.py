@@ -13,4 +13,5 @@ def print_hi(x_name):
 if __name__ == '__main__':
     print_hi('PyCharm rulez')
 # ditte
+# und ditte
 # See PyCharm help at https://www.jetbrains.com/help/pycharmsetopt NO_HIST_EXPANSION
