@@ -1,16 +1,16 @@
-# This is a sample Python script.
+# This is a sample Python script. # masterchange
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
+def print_hi(x_name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hey man, {name}')  # Press ⌘F8 to toggle the breakpoint.
+    print(f'Hey man, {x_name}')  # Press ⌘F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
+    print_hi('PyCharm rulez')
+# ditte
 # See PyCharm help at https://www.jetbrains.com/help/pycharmsetopt NO_HIST_EXPANSION
