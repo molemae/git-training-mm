@@ -6,7 +6,7 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
-
+#brummli brummli
 def print_hi(x_name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hey man, {x_name}')  # Press ⌘F8 to toggle the breakpoint.
