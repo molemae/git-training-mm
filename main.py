@@ -4,9 +4,9 @@
 # this is an online change
 
 # Press ⌃R to execute it or replace it with your code.
-# lokalblub Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+# lokalblub Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings. klick klack
 
-#brummli brummli teil 2
+#brummli brummli brummli
 # blabla
 def print_hi(x_name):
     # Use a breakpoint in the code line below to debug your script.
